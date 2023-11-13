@@ -1,0 +1,76 @@
+{
+    "destination": [
+        {
+            "id": 1,
+            "title": "Gành Đá Đĩa",
+            "desc": "Đây là một trong những thắng cảnh nổi tiếng nhất của Phú Yên. Nhìn xa Gành Đá Đĩa giống một tổ ong khổng lồ với những khối trụ vuông vức xếp liền nhau vươn mình ra biển. Bãi đá được ví như hàng nghìn viên ngọc đen nổi bật giữa biển xanh và sóng trắng. Bạn còn bắt gặp những chiếc thuyền thúng của ngư dân neo đậu thấp thoáng tạo nên sự hài hòa, yên ả cho bức tranh miền biển nên thơ.",
+            "image": "https://i1-dulich.vnecdn.net/2022/05/22/3-Ganh-Da-Dia-Xa-An-Ninh-Dong-6856-2221-1653188298.jpg?w=0&h=0&q=100&dpr=1&fit=crop&s=SEFRlIA7eVwOR-bXNY0Inw"
+        },
+        {
+            "id": 2,
+            "title": "Gành Đèn",
+            "desc": "Điểm tham quan nằm cách Gành Đá Đĩa khoảng 1 km về phía bắc, thuộc xã An Ninh Đông, huyện Tuy An. Ngọn hải đăng Gành Đèn có hai màu đỏ, trắng, có độ cao 22 m so với mực nước biển, phát nguồn sáng cho tàu thuyền ra, vào vịnh Xuân Đài. Đứng trên Gành Đèn có thể quan sát vùng biển mênh mông phía đông và cảnh tàu thuyền đánh cá.",
+            "image": "https://i1-dulich.vnecdn.net/2022/05/22/hai-dang-ganh-den-jpeg-7191-1653188298.jpg?w=0&h=0&q=100&dpr=1&fit=crop&s=uyDDdYAMNHKUeI29A-4OvA"
+        },
+        {
+            "id": 3,
+            "title": "Mũi Điện",
+            "desc": "Đại Lãnh hay Mũi Điện có những triền cát rất đẹp. Men theo đường mòn bạn có thể lên ngọn hải đăng Đại Lãnh, từ đây phóng tầm mắt ôm trọn cảnh biển bao la, nhìn những con tàu ngược xuôi trên biển. Đây chính là nơi nhìn thấy bình minh sớm nhất ở Việt Nam. Ngọn hải đăng này có tuổi đời lên tới 100 năm và vẫn còn hoạt động. Phí tham quan khoảng 10.000 đồng một người.",
+            "image": "https://i1-dulich.vnecdn.net/2022/05/22/mui-dien-jpeg-4019-1653188298.jpg?w=0&h=0&q=100&dpr=1&fit=crop&s=omWZBlEvAvUc9GLgqfcdpQ"
+        },
+        {
+            "id": 4,
+            "title": "Bãi rêu Xóm Rớ",
+            "desc": "Bãi rêu Xóm Rớ thuộc phường Phú Đông, thành phố Tuy Hòa, tỉnh Phú Yên. Với những tảng đá bê tông thô kệch nằm chìm dưới nước biển nay mọc lên từng đám rêu xanh đã hút hồn du khách và các bạn trẻ. Màu rêu xanh ngắt bám chặt vào đá, và càng đẹp hơn khi từng con sóng vỗ vào bờ hòa quyện thêm màu ánh bạc của nước biển. Du khách đừng quên ghi lại những khoảnh khắc có một không hai này.",
+            "image": "https://i1-dulich.vnecdn.net/2022/05/23/bai-reu-xom-ro-jpeg-3273-1653279226.jpg?w=0&h=0&q=100&dpr=1&fit=crop&s=UYfkOUoGc9Zi0JZoX4wFwQ"
+        },
+        {
+            "id": 5,
+            "title": "Gành Đá Đĩa",
+            "desc": "Đây là một trong những thắng cảnh nổi tiếng nhất của Phú Yên. Nhìn xa Gành Đá Đĩa giống một tổ ong khổng lồ với những khối trụ vuông vức xếp liền nhau vươn mình ra biển. Bãi đá được ví như hàng nghìn viên ngọc đen nổi bật giữa biển xanh và sóng trắng. Bạn còn bắt gặp những chiếc thuyền thúng của ngư dân neo đậu thấp thoáng tạo nên sự hài hòa, yên ả cho bức tranh miền biển nên thơ.",
+            "image": ""
+        },
+        {
+            "id": 6,
+            "title": "Núi Nhạn",
+            "desc": "Đây là ngọn núi cao khoảng 60 m so với mặt nước biển, nhìn từ xa trông như con chim nhạn đang sải cánh bay. Trên núi có ngôi tháp cổ 800 tuổi được xây dựng theo kiến trúc nghệ thuật của người Chăm. Đứng từ đỉnh, bạn có thể phóng tầm nhìn bao quát toàn cảnh thành phố Tuy Hòa, chiêm ngưỡng vẻ đẹp của những mảng xanh của biển, cây cỏ và nhà cửa.",
+            "image": "https://i1-dulich.vnecdn.net/2022/05/22/thap-cham-jpeg-4893-1653188299.jpg?w=0&h=0&q=100&dpr=1&fit=crop&s=5UGxrjmTaPoPoyr8koGKgA"
+        },
+        {
+            "id": 7,
+            "title": "Nhà thờ Mằng Lăng",
+            "desc": "Đây là một trong những nhà thờ cổ lâu đời nhất ở Việt Nam, tọa lạc bên bờ sông Kỳ Lộ. Nhà thờ Mằng Lăng được xây dựng theo kiến trúc Gothic với những hoa văn trang trí cổ điển và sắc xanh xám chủ đạo.",
+            "image": "https://i1-dulich.vnecdn.net/2022/05/22/nha-tho-mang-lang-jpeg-4904-1653188299.jpg?w=0&h=0&q=100&dpr=1&fit=crop&s=Fg6DoTAIN_NcnOlrnxGWTg"
+        },
+        {
+            "id": 8,
+            "title": "Đầm Ô Loan",
+            "desc": "Là di tích danh thắng cấp quốc gia được công nhận năm 1996, đầm có diện tích mặt nước 1.570 ha, độ sâu trung bình khoảng 1,3m, thông với biển Đông qua cửa Lễ Thịnh và Tân Quy. Ở đây bạn có thể thưởng thức món hàu và sò huyết có tiếng. Dạo chơi và chiêm ngưỡng vẻ đẹp say lòng người của phong cảnh đầm. Bạn có thể chờ đến chiều để ngắm hoàng hôn.",
+            "image": "https://i1-dulich.vnecdn.net/2022/05/22/dam-o-loan-jpeg-2307-1653188299.jpg?w=0&h=0&q=100&dpr=1&fit=crop&s=yU5qJqRHPHtNVpFIc9_Vug"
+        },
+        {
+            "id": 9,
+            "title": "Quảng trường Nghinh Phong",
+            "desc": "Quảng trường nằm ở ngã ba đường Nguyễn Hữu Thọ và Độc Lập, TP Tuy Hòa, nổi bật với công trình tháp đôi Nghinh Phong giữa một bên là biển xanh một bên là đường thẳng tắp. Kiến trúc độc đáo của tòa tháp lấy ý tưởng từ Gành Đá Đĩa - biểu tượng của du lịch Phú Yên và truyền thuyết \"Con Rồng Cháu Tiên\".",
+            "image": "https://i1-dulich.vnecdn.net/2022/05/22/thap-nghinh-phong-jpeg-6239-1653188299.jpg?w=0&h=0&q=100&dpr=1&fit=crop&s=9fQ2cHT12FXaEcIx-cDRNg"
+        },
+        {
+            "id": 10,
+            "title": "Hòn Yến",
+            "desc": "Cách TP Tuy Hòa hơn 20 km, Hòn Yến thuộc thôn Nhơn Hội, huyện Tuy An là điểm check-in yêu thích không chỉ của khách du lịch mà cả giới nhiếp ảnh nhờ có những rạn san hô trên cạn nhiều màu sắc và hình thù.Du khách không phải đi tàu ra giữa biển mà chỉ cần thủy triều rút là có thể ngắm san hô. Theo dân địa phương, thủy triều chỉ cạn vào buổi chiều những ngày đầu tháng, hoặc giữa tháng âm lịch. Mỗi đợt nước xuống thường dài 2-3 ngày, lộ ra những lớp đá gai góc chồng chất và bãi cát vàng thơ mộng.",
+            "image": "https://i1-dulich.vnecdn.net/2022/05/22/Hon-Yen-Xa-An-Hoa-Hai-Huyen-Tu-6613-5809-1653188299.jpg?w=0&h=0&q=100&dpr=1&fit=crop&s=plbKvORAAf1fIT-QWs4IXg"
+        },
+        {
+            "id": 11,
+            "title": "Nhất Tự Sơn",
+            "desc": "Nhất Tự Sơn là một trong những hòn đảo đẹp nhất của vịnh Xuân Đài, thuộc địa bàn xã Xuân Thọ 1, thị xã Sông Cầu. Tính theo quốc lộ 1A, hòn đảo này nằm phía bắc tỉnh Phú Yên, cách trung tâm thành phố Tuy Hòa chừng 50 km. Điều độc đáo của Nhất Tự Sơn là con đường vượt biển ra đảo, nằm chìm dưới làn nước và chỉ hé lộ ra theo dòng thủy triều rút xuống, tạo nên một cảnh quan ngoạn mục đầy kích thích đối với du khách.",
+            "image": "https://i1-dulich.vnecdn.net/2022/05/22/1-Dao-Nhat-Tu-Son-phuong-Xuan-2406-3649-1653188299.jpg?w=0&h=0&q=100&dpr=1&fit=crop&s=1zDnQUe9o1BQz5urNQbXDA"
+        },
+        {
+            "id": 12,
+            "title": "Đập Đồng Cam",
+            "desc": "Đập Đồng Cam nằm phía Tây huyện Phú Hòa, dài 688m với hơn 2.500 hạng mục lớn nhỏ, có hai kênh dẫn nước là kênh Chính Bắc và Nam tưới tiêu cho cả vùng lúa Tuy Hòa rộng 220 km². Đồng Cam là công trình có giá trị thẩm mỹ lẫn kỹ thuật rất cao. Đập có ý nghĩa về mặt kinh tế, lịch sử cộng với cảnh quan tươi đẹp, kiến trúc độc đáo. Ngày 08/09/2022 đập Đồng Cam được công nhận là Di tích danh lam thắng cảnh cấp quốc gia.",
+            "image": "https://cdn3.ivivu.com/2022/10/%C4%91%E1%BA%ADp-%C4%90%E1%BB%93ng-Cam-ivivu.jpg"
+        }
+    ]
+}
