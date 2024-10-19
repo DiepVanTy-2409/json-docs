@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "type": "Utilities"
+    },
+    {
+        "id": 2,
+        "type": "Salaries"
+    },
+    {
+        "id": 3,
+        "type": "Maintenance"
+    },
+    {
+        "id": 4,
+        "type": "Supplies"
+    },
+    {
+        "id": 5,
+        "type": "Repairs"
+    },
+    {
+        "id": 6,
+        "type": "Insurance"
+    },
+    {
+        "id": 7,
+        "type": "Marketing"
+    },
+    {
+        "id": 8,
+        "type": "Legal Fees"
+    },
+    {
+        "id": 9,
+        "type": "Travel"
+    },
+    {
+        "id": 10,
+        "type": "Taxes"
+    },
+    {
+        "id": 11,
+        "type": "Loan Payments"
+    }
+]
