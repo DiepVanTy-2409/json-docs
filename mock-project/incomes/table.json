@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "employee_name": "Susan Smith",
+        "income_type": "Salary",
+        "amount": 3000.00,
+        "receivedate": "2024-01-01",
+        "description": "Monthly salary payment",
+        "status": "Paid"
+    },
+    {
+        "id": 2,
+        "employee_name": "Susan Smith",
+        "income_type": "Bonus",
+        "amount": 3000.00,
+        "receivedate": "2024-01-01",
+        "description": "Monthly salary payment",
+        "status": "Pending"
+    },
+    {
+        "id": 3,
+        "employee_name": "Susan Smith",
+        "income_type": "Salary",
+        "amount": 3000.00,
+        "receivedate": "2024-01-01",
+        "description": "Monthly salary payment",
+        "status": "Paid"
+    },
+    {
+        "id": 4,
+        "employee_name": "Susan Smith",
+        "income_type": "Bonus",
+        "amount": 3000.00,
+        "receivedate": "2024-01-01",
+        "description": "Monthly salary payment",
+        "status": "Pending"
+    },
+    {
+        "id": 5,
+        "employee_name": "Susan Smith",
+        "income_type": "Salary",
+        "amount": 3000.00,
+        "receivedate": "2024-01-01",
+        "description": "Monthly salary payment",
+        "status": "Paid"
+    },
+    {
+        "id": 6,
+        "employee_name": "Susan Smith",
+        "income_type": "Bonus",
+        "amount": 3000.00,
+        "receivedate": "2024-01-01",
+        "description": "Monthly salary payment",
+        "status": "Pending"
+    }
+]

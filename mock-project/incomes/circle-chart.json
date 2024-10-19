@@ -1,0 +1,8 @@
+[
+    { "id": 0, "value": 10, "label": "Type A" },
+    { "id": 1, "value": 15, "label": "Type B" },
+    { "id": 2, "value": 20, "label": "Type C" },
+    { "id": 3, "value": 23, "label": "Type D" },
+    { "id": 4, "value": 30, "label": "Type E" },
+    { "id": 5, "value": 22, "label": "Type F" }
+  ]
